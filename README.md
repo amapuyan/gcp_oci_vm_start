@@ -22,11 +22,6 @@ Loom/Zoom: (https://www.loom.com/share/654bef0cf26547828b2a73d22ecbca25?sid=85b7
 6. Network: default VPC; ephemeral public IP
 
 
-### Start/Stop
-- Start: <state shows RUNNING>
-- Stop: <state shows TERMINATED/STOPPED>
-
-
 ### Delete
 - Delete instance and verify no disks/IPs remain
 
@@ -41,10 +36,6 @@ Loom/Zoom: (https://www.loom.com/share/654bef0cf26547828b2a73d22ecbca25?sid=85b7
 5. Public IP: ephemeral
 6. Boot volume: default minimal
 
-### Start/Stop
-- Start: <state shows RUNNING>
-- Stop: <state shows STOPPED>
-
 ### Terminate
 - Terminate and delete boot volume; verify cleanup
 
@@ -52,7 +43,7 @@ Loom/Zoom: (https://www.loom.com/share/654bef0cf26547828b2a73d22ecbca25?sid=85b7
 
 ## Reflections
 ### Similarities
-- Farily easy plug and play setup
+- Fairly easy plug and play setup
 - Affordable pricing
 
 ### Differences
