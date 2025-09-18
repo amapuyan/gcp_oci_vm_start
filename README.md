@@ -21,18 +21,14 @@ Loom/Zoom: (https://www.loom.com/share/654bef0cf26547828b2a73d22ecbca25?sid=85b7
 5. Boot disk: default minimal
 6. Network: default VPC; ephemeral public IP
 
-![GCP create](images/gcp_create.png)
 
 ### Start/Stop
 - Start: <state shows RUNNING>
 - Stop: <state shows TERMINATED/STOPPED>
 
-![GCP running](images/gcp_running.png)
 
 ### Delete
 - Delete instance and verify no disks/IPs remain
-
-![GCP cleaned](images/gcp_clean.png)
 
 ---
 
@@ -45,27 +41,25 @@ Loom/Zoom: (https://www.loom.com/share/654bef0cf26547828b2a73d22ecbca25?sid=85b7
 5. Public IP: ephemeral
 6. Boot volume: default minimal
 
-![OCI create](images/oci_create.png)
-
 ### Start/Stop
 - Start: <state shows RUNNING>
 - Stop: <state shows STOPPED>
 
-![OCI running](images/oci_running.png)
-
 ### Terminate
 - Terminate and delete boot volume; verify cleanup
-
-![OCI cleaned](images/oci_clean.png)
 
 ---
 
 ## Reflections
 ### Similarities
-- <brief bullets>
+- Farily easy plug and play setup
+- Affordable pricing
 
 ### Differences
-- <brief bullets>
+- Google UI was easier to navigate in my opinion
+- Oracle had a cheaper bottomline price
+- Google had slower processing navigating tabs
+- Oracle had a slower time creating VM 
 
 ### Preference (OCI vs GCP) and Why
-- <one short paragraph>
+- I prefer using Google Cloud over Oracle because the interface is much more user-friendly and intuitive. Navigating through the dashboard feels straightforward, and I can quickly find the tools and services I need without confusion. The overall setup and configuration process also seemed easier to understand, making it less overwhelming compared to Oracle’s platform. This simplicity helps me focus more on building and running my VM rather than figuring out the platform itself.
