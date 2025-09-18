@@ -4,7 +4,7 @@ HHA 504 Module 1 Assignment - Intro to Cloud GCP and OCI
 # VM Lifecycle on GCP and OCI — Tutorial
 
 ## Video
-Loom/Zoom: <paste link>
+Loom/Zoom: (https://www.loom.com/share/654bef0cf26547828b2a73d22ecbca25?sid=85b7a010-767f-4238-af58-b876d359b40d)
 
 ## Prereqs
 - Cloud access to GCP and OCI
